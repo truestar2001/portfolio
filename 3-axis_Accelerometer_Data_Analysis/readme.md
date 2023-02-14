@@ -7,11 +7,11 @@ x축, y축, z축 가속도 총 3개의 feature로 구성된 가속도 데이터�
 최종 모델은 LGBM으로 선택하였으며 95.11%의 정확도로 클래스를 예측하는데 성공하였습니다.
 
 ## 파일 설명
-KNN_Weltried.ipynb: knn알고리즘을 이용한 AI모델 코드  
-MLP_Weltried.ipynb: MLP를 이용한 AI모델 코드  
-WELT_LightGBM_ver1.ipynb: LGBM을 이용한 AI모델 코드  
-Preprocessing.ipynb: 전처리 코드  
-WELT_LGBM_ver1.pkl: LGBM으로 학습한 최종 모델    
+* KNN_Weltried.ipynb: knn알고리즘을 이용한 AI모델 코드
+* MLP_Weltried.ipynb: MLP를 이용한 AI모델 코드
+* WELT_LightGBM_ver1.ipynb: LGBM을 이용한 AI모델 코드
+* Preprocessing.ipynb: 전처리 코드
+* WELT_LGBM_ver1.pkl: LGBM으로 학습한 최종 모델  
 
 ## 프로젝트 최종 보고서
 https://drive.google.com/file/d/1ttXLGvFBgm3w88ytuUEuphMThSnB28Jh/view?usp=share_link
