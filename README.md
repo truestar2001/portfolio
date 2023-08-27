@@ -18,3 +18,7 @@
 ## Deep_Video_Inpainting
 졸업프로젝트로 진행한 프로젝트입니다.
 딥러닝 기술(세그멘테이션, 인코더-디코더)들을 이용하여 영상 내의 자막을 제거하는 프로젝트입니다.
+
+## Location_Selection_of_Fine_Dust_Reduction_Facilities
+광진구 빅데이터 공모전에 출품한 프로젝트입니다.
+머신 러닝을 이용하여 미세먼지 저감 시설 '하늘가'의 입지를 선정하였습니다.
