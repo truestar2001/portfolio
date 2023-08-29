@@ -1,4 +1,7 @@
 # 머신러닝을 이용한 미세먼지 저감시설 하늘가 입지 선정
+
+출품 pdf: https://drive.google.com/file/d/1JBFhfM9YpLm0DyoWuNpjfgQPllN1boKK/view?usp=sharing
+
 ## 프로젝트 개요
 ![image](https://github.com/truestar2001/portfolio/assets/80587844/943996b3-965e-48fd-b7eb-a90c089b0719)
 광진구청에서 주최한 '광진구 빅데이터 공모전'에 출품한 프로젝트입니다. 여러 머신러닝 기법들을 이용하여 야외 미세먼지 저감시설의 최적 입지를 선정하였습니다. 최적 입지 선정을 위한 feature는 다음과 같습니다.
